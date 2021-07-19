@@ -9,6 +9,14 @@ html, body {
   justify-content: center;
 }
 
+.wrap2 {
+  height:0;
+  width:50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .button {
   min-width: 300px;
   min-height: 60px;
