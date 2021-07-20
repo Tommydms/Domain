@@ -2,6 +2,14 @@ html, body {
   height: 70%;
 }
 
+p {
+ font-size: 40px;
+ color:#00FFCB;
+ font-family: 'Nunito', sans-serif;
+ position: relative;
+ bottom: 130px;
+ }
+
 .wrap {
   height: 70%;
   display: flex;
